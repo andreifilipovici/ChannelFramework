@@ -1,0 +1,7 @@
+{
+  "channel_integrations": {
+    "Verizon_channel": {
+      "manifest_url": "https://4dbf9b63.ngrok.io/Verizon/manifest"
+    }
+  }
+}

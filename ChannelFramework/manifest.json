@@ -1,0 +1,13 @@
+{
+  "name": "Verizon Integration",
+  "id": "zendesk-internal-Verizon-integration",
+  "author": "Chuck Noris",
+  "version": "v1.0.0",
+  "channelback_files": false,
+  "create_followup_tickets": true,
+  "urls": {
+    "admin_ui": "https://4dbf9b63.ngrok.io/Verizon/admin_ui",
+    "pull_url": "https://4dbf9b63.ngrok.io/Verizon/pull",
+    "channelback_url": "https://4dbf9b63.ngrok.io/Verizon/channel_back"
+  }
+}

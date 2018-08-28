@@ -1,0 +1,54 @@
+{
+  "external_resources": [
+    {
+      "external_id": "20151210083000-Verizon",
+      "message": "Please help. New Verizon ticket.",
+      "created_at": "2015-09-08T22:48:09Z",
+      "author": {
+        "external_id": "a2466",
+        "name": "Amy",
+        "image_url": "https://scontent.cdninstagram.com/hphotos-xap1/t51.2885-19/s150x150/12424615_209564492716268_42714239_a.jpg",
+        "locale": "de",
+        "fields": [
+          {
+            "notes": "A virgo who loves long walks on the beach",
+            "details": "45836545"
+          }
+        ]
+      },
+      "display_info": [
+        {
+          "type": "omniwear.com/integrations/instagram/display/comment/v1",
+          "data": "{\"priority\": \"high\"}"
+        }
+      ],
+      "allow_channelback": true,
+      "fields": [
+        {
+          "subject": "This is the ticket's subject."
+        },
+        {
+          "type": "Incident"
+        }
+      ]
+    },
+    {
+      "external_id": "20151210083200-bob",
+      "message": "There is no sand, blanket or fire extinguisher near by.",
+      "created_at": "2015-09-08T22:48:12Z",
+      "parent_id": "20151210083000-amy",
+      "author": {
+        "external_id": "a2466",
+        "name": "Amy",
+        "image_url": "https://scontent.cdninstagram.com/hphotos-xap1/t51.2885-19/s150x150/12424615_209564492716268_42714239_a.jpg"
+      },
+      "display_info": [
+        {
+          "type": "omniwear.com/integrations/instagram/display/comment/v1",
+          "data": "{\"priority\": \"medium\"}"
+        }
+      ],
+      "allow_channelback": true
+    }
+  ]
+}

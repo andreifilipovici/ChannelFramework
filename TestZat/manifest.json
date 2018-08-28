@@ -1,0 +1,13 @@
+{
+  "name": "Test",
+  "author": {
+    "name": "3Pillar",
+    "email": "andrei.filipovici@3pillarglobal.com",
+    "url": ""
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "version": "1.0",
+  "requirementsOnly": true,
+  "singleInstall": true
+}
